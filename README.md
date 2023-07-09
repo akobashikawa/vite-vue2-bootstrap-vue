@@ -1,5 +1,8 @@
 # vite-vue2-bootstrap-vue
 
+- [Starting with Bootstrap-Vue step by step | Ma-No Tech News & Analysis, javascript, angular, react, vue, php](https://www.ma-no.org/en/programming/javascript/starting-with-bootstrap-vue-step-by-step)
+[vitejs/vite-plugin-vue2: Vite plugin for Vue 2.7](https://github.com/vitejs/vite-plugin-vue2)
+
 - `npm create vite@latest vite-vue2-bootstrap-vue`
 - `cd vite-vue2-bootstrap-vue`
 - `npm install`
